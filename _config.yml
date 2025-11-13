@@ -19,7 +19,7 @@ lang: en # 网站语言
 icon: 🤖 # 网站图标
 
 url: https://viperhformer.github.io # GitHub Pages URL
-baseurl: # 留空
+baseurl: ""
 
 # -----------------------------------------------------------------------------
 # Social integration
