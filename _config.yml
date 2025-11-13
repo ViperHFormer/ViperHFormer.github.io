@@ -3,17 +3,17 @@
 # -----------------------------------------------------------------------------
 
 title: blank # 网站标题留空，显示名字
-first_name: Your
+first_name: Jinglin    
 middle_name: 
-last_name: Name
-email: your.email@example.com
+last_name: He
+email: jinglinhe01@gmail.com
 description: > # 个人简介
-  Personal academic homepage of a research assistant at CUHK, 
-  focusing on AI, Machine Learning, and Signal Processing.
+  Personal academic homepage of a PhD student at CUHK, 
+  focusing on AI for Health and LLM agent.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-keywords: machine-learning, deep-learning, computer-vision, nlp, robotics
+keywords: Multimodal AI, Cross-Modal Learning, RAG, RL
 
 lang: en # 网站语言
 icon: 🤖 # 网站图标
