@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Information Engineering, Chinese University of Hong Kong (CUHK), 2029 (expected)
-* B.S. in Automation, University of Electronic Science and Technology of China (UESTC), 2024 (Top1%)
+* B.S. in Automation, University of Electronic Science and Technology of China (UESTC), 2024 (Ranking Top1%)
 
 Work experience
 ======
