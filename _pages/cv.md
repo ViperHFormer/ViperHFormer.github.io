@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information Engineering, Chinese University of Hong Kong (CUHK), 2029 (expected)
+* B.S. in Automation, University of Electronic Science and Technology of China (UESTC), 2024 (Top1%)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024.11-2025.07: Research Assistant
+  * Chinese University of Hong Kong (CUHK)
+  * AIoT Lab
+  * AI for Health, LLM agent
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* 2024.08-2024.10: Research Assistant
+  * Hong Kong University of Science and Technology (HKUST)
+  * MIRS Lab
+  * Visual-Tactile Robotics
+  
 
 Publications
 ======
