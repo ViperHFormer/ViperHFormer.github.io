@@ -21,19 +21,10 @@ Work experience
 ======
 * **Research Assistant**, The Chinese University of Hong Kong (CUHK)
   * *Nov 2024 - Present* | Hong Kong
-  * **Advisor:** (建议在此处补充导师名字)
-  * Designed a two-stage MAE framework combined with Natural Imaging and physical priors to realize fine-grained cardiac monitoring via mmWave sensing.
-  * Constructed a knowledge graph of Traditional Chinese Medicine (TCM) and utilized GraphRAG for TCM retrieval and Q&A.
-  * Exploring methods to enable LLM's in-home video understanding in the thermal modality.
 
 * **Research Intern**, Hong Kong University of Science and Technology (HKUST)
   * *July 2024 - Oct 2024* | Hong Kong
   * Studied Visuo-Tactile Sensing and Signal Processing for Robot Manipulation.
-
-* **International Exchange Researcher**, Nanyang Technological University (NTU)
-  * *Jan 2023 - Mar 2023* | Singapore
-  * Realized fault diagnosis of cavitation (a physical state of large machinery) harnessing Short-time Fourier Transform for feature extraction, GAN for data augmentation, and Swin Transformer for image classification.
-  * Realized multi-classification of grape leaf states based on ViT and transfer learning.
 
 Honors and Awards
 ======
