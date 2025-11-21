@@ -13,4 +13,5 @@ My name is Jinglin He, a year-1 PhD student at CUHK AIoT lab, supervised by Prof
 Publications
 
 OpenTCM: A GraphRAG-Empowered LLM-based System for Traditional Chinese Medicine Knowledge Retrieval and Diagnosis, BIGCOM25 (Best Paper Award)
+
 SGST: A Novel Approach Based on Machine Learning for Cavitation Fault Diagnosis, IECON23 (CAA-A)
