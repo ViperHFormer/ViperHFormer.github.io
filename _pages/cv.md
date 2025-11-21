@@ -19,12 +19,13 @@ Education
 
 Work experience
 ======
-* **Research Assistant**, The Chinese University of Hong Kong (CUHK)
-  * *Nov 2024 - Present* | Hong Kong
+* **Research Assistant**, AIoT Lab, The Chinese University of Hong Kong (CUHK)
+  * *Nov 2024 - July 2025* | Hong Kong
+  * AI for Health
 
-* **Research Intern**, Hong Kong University of Science and Technology (HKUST)
-  * *July 2024 - Oct 2024* | Hong Kong
-  * Studied Visuo-Tactile Sensing and Signal Processing for Robot Manipulation.
+* **Research Intern**, MIRS Lab, Hong Kong University of Science and Technology (HKUST)
+  * *Aug 2024 - Oct 2024* | Hong Kong
+  * Visuo-Tactile Sensing and Signal Processing for Robot Manipulation
 
 Honors and Awards
 ======
