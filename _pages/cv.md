@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* **Research Assistant**, AIoT Lab, The Chinese University of Hong Kong (CUHK)
+* **Research Assistant**,  The Chinese University of Hong Kong (CUHK)
   * *Nov 2024 - July 2025* | Hong Kong
   * AI for Health
 
