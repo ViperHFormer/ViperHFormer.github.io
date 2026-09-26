@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "ViperH's Personal Website"
 title_separator          : "-"
 name                     : &name "Jinglin He (ViperH)"
-description              : &description "I am Jinglin He, a year-1 PhD student at CUHK AIoT lab, supervised by Prof.Guoliang Xing (ACM/IEEE Fellow) and Prof. Hongkai Chen. My research interest includes AI for Health, Audio LLM, and anything related to LLM (RAG, Post-Training, Agent, Multimodal, Cross-Modal, etc). I have not published any top conference/journal yet, and luckily it is on the way."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "I am Jinglin He, a year-1 PhD student at CUHK. My research interest includes AI for Health, Audio LLM, and anything related to LLM (RAG, Post-Training, Agent, Multimodal, Cross-Modal, etc). I have not published any top conference/journal yet, and luckily it is on the way."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ViperHFormer.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
